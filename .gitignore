@@ -1,0 +1,10 @@
+build/
+dist/
+test/
+GraphicObjects/
+nbproject/
+test/
+
+build.xml
+manifest.mf
+save.data.gz
